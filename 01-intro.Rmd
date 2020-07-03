@@ -1,0 +1,8 @@
+# Chapter 2
+
+## Exercise 2.1
+
+We need to show that \[\lambda_\mathrm{max} = \max_j \lvert \frac 1N \langle \boldsymbol{x}_j,\boldsymbol{y}_j\rangle\rvert\]
+is the smallest \(\lambda\) such that all coefficients are
+zero.
+
