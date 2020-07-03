@@ -1,4 +1,4 @@
-# Chapter 2
+# The Lasso for Linear Models
 
 ## Exercise 2.1
 
