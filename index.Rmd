@@ -4,7 +4,7 @@ author: "Johan Larsson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
+bibliography: [library.bib]
 biblio-style: apalike
 link-citations: yes
 description: "This is a solutions manual for the book Statistical Learning with Sparsity"
